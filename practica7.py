@@ -1,0 +1,9 @@
+a=0
+a=a+1
+a=a+1
+a=a+1
+print(a)
+b=1
+b=b+5
+b=b+10
+print(b)
